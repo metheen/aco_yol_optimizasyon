@@ -1,0 +1,10 @@
+streamlit
+googlemaps
+pandas
+numpy
+python-dotenv
+pydeck
+matplotlib
+requests
+
+
